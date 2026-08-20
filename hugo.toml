@@ -1,4 +1,4 @@
-baseURL = 'https://fryrvo.com/'
+baseURL = 'https://cdn.fryrvo.com/'
 locale = 'en-us'
 title = 'Fryrvo CDN Server'
 theme = "PaperMod"
