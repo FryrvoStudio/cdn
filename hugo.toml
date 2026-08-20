@@ -1,15 +1,43 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://fryrvo.com/'
 locale = 'en-us'
 title = 'Fryrvo CDN Server'
 theme = "PaperMod"
 
 [params]
-  author = 'Fryrvo Fox'
-  pronouns = 'They/Them'
-  description = 'Professional idiot at day by night still an idiot'
-  github = 'Fryrvo'
-  twitter = 'Fryrvo'
-  location = 'Earth'
-  email = 'fryrvo@fryrvo.com'
-  url = "https://fryrvo.com"
-  avatar = '/images/fryrvo.png'
+  env = 'production'
+  title = 'Asset CDN'
+  description = 'cdn'
+  
+[params.homeInfoParams]
+ Title = "CDN"
+ Content = """
+ Welcome to the CDN. Access files directly via /filename.png
+ """
+
+
+[[params.socialIcons]]
+ name = "github"
+ url = "https://github.com/Fryrvo"
+
+[[params.socialIcons]]
+ name = "website"
+ url = "https://fryrvo.com"
+
+[[params.socialIcons]]
+ name = "email"
+ url = "mailto:contact@fryrvo.com"
+
+[[params.socialIcons]]
+ name = "discord"
+ url = "https://fryrvo.com/discord"
+
+
+[[menus.main]]
+  name = "Documentation"
+  url = "/docs/"
+  weight = 10
+
+[[menus.main]]
+  name = "Status"
+  url = "https://status.fryrvo.com"
+  weight = 20
