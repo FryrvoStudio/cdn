@@ -2,3 +2,14 @@ baseURL = 'https://example.org/'
 locale = 'en-us'
 title = 'Fryrvo CDN Server'
 theme = "PaperMod"
+
+[params]
+  author = 'Fryrvo Fox'
+  pronouns = 'They/Them'
+  description = 'Professional idiot at day by night still an idiot'
+  github = 'Fryrvo'
+  twitter = 'Fryrvo'
+  location = 'Earth'
+  email = 'fryrvo@fryrvo.com'
+  url = "https://fryrvo.com"
+  avatar = '/images/fryrvo.png'
