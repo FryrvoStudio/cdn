@@ -2,8 +2,9 @@
 
 notting much i use hugo because i can? and i want to you got problem with that?
 
-[![GitLab Mirror](https://img.shields.io/badge/gitlab-mirror-FC6D26?style=flat&logo=gitlab&labelColor=181717)](https://gitlab.com/Fryrvo/cdn)
-[![Codeberg Mirror](https://img.shields.io/badge/codeberg-mirror-2185D0?style=flat&logo=codeberg&labelColor=181717)](https://codeberg.org/Fryrvo/cdn)
+[![GitHub](https://cdn.fryrvo.com/badge/github.svg?v=2)](https://github.com/Fryrvo/cdn)
+[![GitLab Mirror](https://cdn.fryrvo.com/badge/gitlab_mirror.svg)](https://gitlab.com/Fryrvo/cdn)
+[![Codeberg Mirror](https://cdn.fryrvo.com/badge/codeberg_mirror.svg)](https://codeberg.org/Fryrvo/cdn)
 
 ```
 
